@@ -16,6 +16,8 @@ const PYQ_YEARS = [
   "2012 - 1st Half",
   "2012 - 2nd Half",
   "2011",
-  "2010"
+  "2010",
+  "2008",
+  "2007"
   // add new years here, e.g. "2024"
 ];
